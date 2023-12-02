@@ -1,0 +1,57 @@
+/**
+  * @name mft/no-bubbles
+  * @author snixf
+  * @version v2
+  * @description looks a bit like telegram :D
+  * @authorId 801508376491327518
+  * @website https://guns.lol/sx
+  * @invite 
+*/
+
+
+
+@import url(https://raw.githubusercontent.com/pwsh7/discord/main/themes/css/mains/DiscordRecolor.css);
+@import url(https://gist.githubusercontent.com/pwsh7/6fa64c503b5ca9db1346b14808e3f23e/raw/360f80b18236246f7ba6ce0f24199b3b9c54fbaf/onekomsgbar.css);
+
+:root {
+    --chat-bubble: 1;
+
+    --chat-bubble-background-color: rgb(44, 41, 41);
+    --chat-bubble-border-color: rgb(0, 0, 0);
+    --chat-bubble-code-background-color: var(--background-secondary-alt);
+
+    --chat-bubble-max-width: 90%;
+    --chat-bubble-border-radius: 15px;
+
+    --chat-bubble-box-shadow-h-offset: 0;
+    --chat-bubble-box-shadow-v-offset: 6px;
+    --chat-bubble-box-shadow-blur: 6px;
+    
+    --chat-bubble-box-shadow-color-h: 0;
+    --chat-bubble-box-shadow-color-s: 0%;
+    --chat-bubble-box-shadow-color-l: 0%;
+    --chat-bubble-box-shadow-color-a: 0.16;
+
+/*colors*/
+
+  --settingsicons:        0;                
+    --font:                "gg sans", "Noto Sans";    
+    --accentcolor:             88,101,242;        
+    --accentcolor2:         255,115,250;        
+    --linkcolor:             0,176,244;        
+    --mentioncolor:         250,166,26;        
+    --successcolor:         59,165,92;        
+    --warningcolor:         250,166,26;        
+    --dangercolor:          237,66,69;        
+    --textbrightest:         255,255,255;        
+    --textbrighter:         222,222,222;        
+    --textbright:             185,185,185;        
+    --textdark:             140,140,140;        
+    --textdarker:             115,115,115;        
+    --textdarkest:             80,80,80;        
+    --backgroundaccent:         44,41,41;        
+    --backgroundprimary:         30,30,30;        
+    --backgroundsecondary:         20,20,20;        
+    --backgroundsecondaryalt:     15,15,15;        
+    --backgroundtertiary:         10,10,10;        
+    --backgroundfloating:         0,0,0;        
