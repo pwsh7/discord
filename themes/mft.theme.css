@@ -9,8 +9,8 @@
 */
 
 
-@import url(https://maendisease.github.io/BetterDiscordStuff/css/ChatBubbles.css);
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css);
+@import url(https://raw.githubusercontent.com/pwsh7/discord/main/themes/css/ChatBubbles.css);
+@import url(https://raw.githubusercontent.com/pwsh7/discord/main/themes/css/mains/DiscordRecolor.css);
 @import url(https://gist.githubusercontent.com/pwsh7/6fa64c503b5ca9db1346b14808e3f23e/raw/360f80b18236246f7ba6ce0f24199b3b9c54fbaf/onekomsgbar.css);
 :root {
     --chat-bubble: 1;
